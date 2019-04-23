@@ -25,6 +25,9 @@ class Post
     @title = title
   end
 
+  def self.all 
+  end
+
    def author_name
     if author
       self.author.name
