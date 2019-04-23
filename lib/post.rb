@@ -20,14 +20,14 @@
 
 # class Post
 #   attr_accessor :author, :title
-# 
+#
 #    def initialize(title)
 #     @title = title
 #   end
-# 
+#
 #   def self.all
 #   end
-# 
+#
 #    def author_name
 #     if author
 #       self.author.name
@@ -35,5 +35,5 @@
 #       nil
 #     end
 #   end
-# 
+#
 #  end
